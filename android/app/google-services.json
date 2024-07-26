@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "217910752190",
+    "project_id": "tok-tok-7adf4",
+    "storage_bucket": "tok-tok-7adf4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217910752190:android:78fb9ec19389c47afbbfef",
+        "android_client_info": {
+          "package_name": "az.gurfdev.toktok.tok_tok"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOcmkE-yU6bgS4OymwsZwh5UcM0GCrpJM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

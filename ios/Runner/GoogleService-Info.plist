@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyAEp_sbPug9d2qEZ3U_Nxy5ECn2eMHSfqo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>217910752190</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>az.gurfdev.toktok.tokTok</string>
+	<key>PROJECT_ID</key>
+	<string>tok-tok-7adf4</string>
+	<key>STORAGE_BUCKET</key>
+	<string>tok-tok-7adf4.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:217910752190:ios:7256616153822159fbbfef</string>
+</dict>
+</plist>
